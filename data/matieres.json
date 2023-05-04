@@ -1,0 +1,34 @@
+[
+    {
+        "matiere": "BD",
+        "couleur": "blue"
+    },
+    {
+        "matiere": "prog web",
+        "couleur": "green"
+    },
+    {
+        "matiere": "reseaux",
+        "couleur": "yellow"
+    },
+    {
+        "matiere": "Algorithmique",
+        "couleur": "Turquoise"
+    },
+    {
+        "matiere": "Systemes",
+        "couleur": "SaddleBrown"
+    },
+    {
+        "matiere": "Logique",
+        "couleur": "pink"
+    },
+    {
+        "matiere": "Langages Formels",
+        "couleur": "orange"
+    },
+    {
+        "matiere": "IAS",
+        "couleur": "silver"
+    }
+]

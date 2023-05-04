@@ -1,0 +1,2150 @@
+[
+    {
+        "date": "2023-05-04",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-04",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TP",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-04",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Jopseh",
+        "salle": "E204",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-02",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Joseph",
+        "salle": "D103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-05",
+        "heure_debut": "8",
+        "heure_fin": "12",
+        "type": "Cours",
+        "matiere": "reseaux",
+        "enseignant": "Mme. Raymond",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-02",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "C108",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-04",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "B204",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-01",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-01",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "E106",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-01",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "Mme. Marques Rosa",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-01",
+        "heure_debut": "14",
+        "heure_fin": "18",
+        "type": "Cours",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-02",
+        "heure_debut": "13",
+        "heure_fin": "15",
+        "type": "Cours",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-02",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "C109",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-02",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Bonnet",
+        "salle": "C207",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "11",
+        "heure_fin": "13",
+        "type": "Cours",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-03",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-05",
+        "heure_debut": "13",
+        "heure_fin": "14",
+        "type": "Cours",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-27",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-27",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TP",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-27",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Jopseh",
+        "salle": "E204",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-25",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Joseph",
+        "salle": "D103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-28",
+        "heure_debut": "8",
+        "heure_fin": "12",
+        "type": "Cours",
+        "matiere": "reseaux",
+        "enseignant": "Mme. Raymond",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-25",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "C108",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-27",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "B204",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-24",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-24",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "E106",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-24",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "Mme. Marques Rosa",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-24",
+        "heure_debut": "14",
+        "heure_fin": "18",
+        "type": "Cours",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-25",
+        "heure_debut": "13",
+        "heure_fin": "15",
+        "type": "Cours",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-25",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "C109",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-25",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Bonnet",
+        "salle": "C207",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "11",
+        "heure_fin": "13",
+        "type": "Cours",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-26",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-28",
+        "heure_debut": "13",
+        "heure_fin": "14",
+        "type": "Cours",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-04-28",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "B102",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-11",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-11",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TP",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-11",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Jopseh",
+        "salle": "E204",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-09",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Joseph",
+        "salle": "D103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-12",
+        "heure_debut": "8",
+        "heure_fin": "12",
+        "type": "Cours",
+        "matiere": "reseaux",
+        "enseignant": "Mme. Raymond",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-09",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "C108",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-11",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "B204",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-08",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-08",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "E106",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-08",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "Mme. Marques Rosa",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-08",
+        "heure_debut": "14",
+        "heure_fin": "18",
+        "type": "Cours",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-09",
+        "heure_debut": "13",
+        "heure_fin": "15",
+        "type": "Cours",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-09",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "C109",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-09",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Bonnet",
+        "salle": "C207",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "11",
+        "heure_fin": "13",
+        "type": "Cours",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-10",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-12",
+        "heure_debut": "13",
+        "heure_fin": "14",
+        "type": "Cours",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-12",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "B102",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-18",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-18",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TP",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-18",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Jopseh",
+        "salle": "E204",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-16",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Joseph",
+        "salle": "D103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-19",
+        "heure_debut": "8",
+        "heure_fin": "12",
+        "type": "Cours",
+        "matiere": "reseaux",
+        "enseignant": "Mme. Raymond",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-16",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "C108",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-18",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "B204",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-15",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-15",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "E106",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-15",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "Mme. Marques Rosa",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-15",
+        "heure_debut": "14",
+        "heure_fin": "18",
+        "type": "Cours",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-16",
+        "heure_debut": "13",
+        "heure_fin": "15",
+        "type": "Cours",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-16",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "C109",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-16",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Bonnet",
+        "salle": "C207",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "11",
+        "heure_fin": "13",
+        "type": "Cours",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-17",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-19",
+        "heure_debut": "13",
+        "heure_fin": "14",
+        "type": "Cours",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-25",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-25",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TP",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-25",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Jopseh",
+        "salle": "E204",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-23",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Joseph",
+        "salle": "D103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-26",
+        "heure_debut": "8",
+        "heure_fin": "12",
+        "type": "Cours",
+        "matiere": "reseaux",
+        "enseignant": "Mme. Raymond",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-23",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "C108",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-25",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "B204",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-22",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-22",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "E106",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-22",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "Mme. Marques Rosa",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-22",
+        "heure_debut": "14",
+        "heure_fin": "18",
+        "type": "Cours",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-23",
+        "heure_debut": "13",
+        "heure_fin": "15",
+        "type": "Cours",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-23",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "C109",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-23",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Bonnet",
+        "salle": "C207",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "11",
+        "heure_fin": "13",
+        "type": "Cours",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-24",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-26",
+        "heure_debut": "13",
+        "heure_fin": "14",
+        "type": "Cours",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-26",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "B102",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TP",
+        "matiere": "prog web",
+        "enseignant": "M. Mouzin ",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Jopseh",
+        "salle": "E204",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-30",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "reseaux",
+        "enseignant": "M. Joseph",
+        "salle": "D103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-02",
+        "heure_debut": "8",
+        "heure_fin": "12",
+        "type": "Cours",
+        "matiere": "reseaux",
+        "enseignant": "Mme. Raymond",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-30",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "C108",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-01",
+        "heure_debut": "14",
+        "heure_fin": "17",
+        "type": "TD",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "B204",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-29",
+        "heure_debut": "8",
+        "heure_fin": "10",
+        "type": "Cours",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-29",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "M. Legrand",
+        "salle": "E106",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-29",
+        "heure_debut": "10",
+        "heure_fin": "12",
+        "type": "TD",
+        "matiere": "Systemes",
+        "enseignant": "Mme. Marques Rosa",
+        "salle": "E203",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-29",
+        "heure_debut": "14",
+        "heure_fin": "18",
+        "type": "Cours",
+        "matiere": "IAS",
+        "enseignant": "M. Cohen Boulakia",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-30",
+        "heure_debut": "13",
+        "heure_fin": "15",
+        "type": "Cours",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-30",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Polski",
+        "salle": "C109",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-30",
+        "heure_debut": "15",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "BD",
+        "enseignant": "Mme. Bonnet",
+        "salle": "C207",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "8",
+        "heure_fin": "11",
+        "type": "Cours",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "11",
+        "heure_fin": "13",
+        "type": "Cours",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "Grand Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Algorithmique",
+        "enseignant": "M. Ocalan",
+        "salle": "A103",
+        "groupes": [
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-31",
+        "heure_debut": "16",
+        "heure_fin": "18",
+        "type": "TD",
+        "matiere": "Logique",
+        "enseignant": "M. Matoussi",
+        "salle": "A208",
+        "groupes": [
+            {
+                "groupe": "1"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-05",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "E202",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-05-19",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "E202",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-02",
+        "heure_debut": "13",
+        "heure_fin": "14",
+        "type": "CM",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "Petit Amphi",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    },
+    {
+        "date": "2023-06-02",
+        "heure_debut": "14",
+        "heure_fin": "16",
+        "type": "TD",
+        "matiere": "Langages Formels",
+        "enseignant": "M. Msilini",
+        "salle": "E202",
+        "groupes": [
+            {
+                "groupe": "1"
+            },
+            {
+                "groupe": "2"
+            }
+        ]
+    }
+]

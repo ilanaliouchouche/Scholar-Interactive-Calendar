@@ -1,0 +1,22 @@
+[
+    {
+        "username": "Etudiant",
+        "password": "$2y$10$Hf8JxsrXQLLFykSDxYHRvuvScNu5nqcvdo2tOA.EGF06.658LJjSa",
+        "role": "etudiant"
+    },
+    {
+        "username": "Responsable",
+        "password": "$2y$10$iqYQmTM9p.wfyeT37tc1t.lZr\/.PX3bWSKfTkgD.NDgdY0v3wnqq.",
+        "role": "responsable"
+    },
+    {
+        "username": "Coordinateur",
+        "password": "$2y$10$yejYgh6nm3KPKw4stTsFze7aOWNVkTtTvBDM28gr2JL1Pwzh6iSrS",
+        "role": "coordinateur"
+    },
+    {
+        "username": "Marwan",
+        "password": "$2y$10$VabRHdDFYbrwLpD56jjg1uXWVrWOtoJiR8HnYTGMMFATXQFCXiTQK",
+        "role": "etudiant"
+    }
+]
